@@ -1,0 +1,6 @@
+@CabloBackEnd_HostAddress = http://localhost:5173
+
+GET {{CabloBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
